@@ -10,8 +10,8 @@ int main(){
 	
 	n2=(N1/100);
 	N3=(n2+5);
-	cout<<"\nel resultado de la division es: "<<n2<<endl;
-	cout<<"le sume 5 al resultado, ahora es: "<<N3<<endl;
+	cout<<"\nel resultado de la division es: "<<n2<<endl;  
+	cou	t	<	<"le sume 5 al resultado, ahora es: "<<N3<<endl;
 	
 	
 	return 0;
